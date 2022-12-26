@@ -119,6 +119,12 @@ p{
     border: 1px solid red;
 }
 
+.error-icon{
+    height: 100%;
+    width: 45px;
+    padding: 10px;
+}
+
 .hide{
     display: none;
 }
@@ -173,12 +179,6 @@ p{
         text-align: start;
         font-size: 9rem;
         letter-spacing: 1.5rem;
-    }
-
-    .error-icon{
-        height: 100%;
-        width: 45px;
-        padding: 10px;
     }
 
     p{
